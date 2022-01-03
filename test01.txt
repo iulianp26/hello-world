@@ -3,5 +3,3 @@ zzzz
 featureA implementation
 featureA changed by John.
 featureA changed by Jessica.
-Update 1.
-Update 2.
